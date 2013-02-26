@@ -62,7 +62,7 @@ The template engine will parse the defined templates, make a list of required te
 
 What is this useful for?
 ---------
-Very basic templates, I quess? It might be useful for email templates or something. I don't know. If you find a use for it, then good on you!
+Very basic templates, I guess? It might be useful for email templates or something. I don't know. If you find a use for it, then good on you!
 
 What licence is it under?
 ---------
