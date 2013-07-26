@@ -66,4 +66,4 @@ Very basic templates, I guess? It might be useful for email templates or somethi
 
 What licence is it under?
 ---------
-I'm going to put it out there under the [Do what the fuck you want to public licence](http://www.wtfpl.net/). Because I don't really care. You probably shouldn't be using this anywhere.
+I'm going to put it out there under the ~~[Do what the fuck you want to public licence](http://www.wtfpl.net/)~~ [Do I Look Like I Give A Shit Public Licence](https://github.com/samlev/DILLIGASPL). Because I don't really care. You probably shouldn't be using this anywhere.
